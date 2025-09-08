@@ -135,7 +135,7 @@ Centralized entry point for all client requests.
 
 The project also includes a **React Native mobile app** that connects with the backend microservices through the Kong API Gateway.  
 
-**Key Featuress**
+**Key Features**
 - 📊 **Dashboard View** → Displays total expenses, monthly breakdown, and charts.  
 - ➕ **Add Expense** → Allows manual expense entry with amount, category, and notes.  
 - 🔍 **Filter & Search** → Search and filter expenses by date, category, or merchant.  
