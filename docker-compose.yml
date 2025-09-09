@@ -29,7 +29,7 @@ services:
     environment:
       KAFKA_HOST: kafka
       KAFKA_PORT: 9092
-      OPENAI_API_KEY: hBABP6t86SGeMrHu8liAmHcPRxLAkqZs
+      OPENAI_API_KEY: <Your API key here> 
     networks:
       - docker-microservices
 
